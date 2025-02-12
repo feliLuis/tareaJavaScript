@@ -31,7 +31,6 @@
   "dependencies": {
     "parcel-jest-base": "file:"
   },
-  "main": "cypress.config.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/feliLuis/tareaJavaScript.git"
